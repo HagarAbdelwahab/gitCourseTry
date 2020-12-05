@@ -38,8 +38,5 @@ public class ExternalFilesReader {
     public void marioma(){
 
     }
-    @Test
-    public void hmekl(){
 
-    }
 }
