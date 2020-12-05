@@ -30,5 +30,9 @@ public class ExternalFilesReader {
     public void testPropertiesFilesReaderClass(){
 
     }
+    @Test
+    public void testClass(){
+
+    }
 
 }
