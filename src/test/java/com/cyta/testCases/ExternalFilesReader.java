@@ -12,6 +12,10 @@ public class ExternalFilesReader {
     public void testExcelReaderClassagian() throws Exception {
     ExcelReader.setExcelFile(path,"Sheet1");
     }
+    @Test
+    public void assign() throws Exception {
+        ExcelReader.setExcelFile(path,"Sheet1");
+    }
 
 
 
