@@ -42,6 +42,10 @@ public class ExternalFilesReader {
     public void testClass(){
 
     }
+    @Test
+    public void test_adding_commit_1(){
+
+    }
     public void tryStash(){
         //here i am
     }
